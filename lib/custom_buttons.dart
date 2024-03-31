@@ -35,7 +35,7 @@ class FonepayCustomButtons extends StatelessWidget {
         width: width,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(borderRadius ?? 16),
-          color: backgroundColor ?? Colors.redAccent,
+          color: backgroundColor ?? Colors.greenAccent,
         ),
         padding: padding ?? const EdgeInsets.symmetric(vertical: 16),
         margin: margin,
